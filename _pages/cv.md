@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-+ Dowload full CV **[CV](http://mariharris.github.io/files/CV_MarianaHarris.pdf)** (updated 08/21/2024)
++ Dowload full **[CV](http://mariharris.github.io/files/CV_MarianaHarris.pdf)** (updated 08/21/2024)
